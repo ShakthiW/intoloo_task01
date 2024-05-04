@@ -12,7 +12,6 @@ import seaborn as sns
 from sklearn.metrics import classification_report, confusion_matrix
 import numpy as np
 
-
 # Step 1: Load the dataset
 data = pd.read_csv("Crop_Dataset.csv")
 
